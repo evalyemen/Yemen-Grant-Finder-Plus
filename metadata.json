@@ -1,0 +1,5 @@
+{
+  "name": "Yemen Grant Finder Plus",
+  "description": "A comprehensive grant research tool for NGOs in Yemen, leveraging Google Search grounding to find the latest funding opportunities from government agencies, INGOs, and the private sector.",
+  "requestFramePermissions": []
+}
